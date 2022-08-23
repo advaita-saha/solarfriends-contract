@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# SolarFriends Smart-Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+SolarFriends is an unique collection of 9 NFTs which are real-life 3D render of the 9 Planets of the solar system
 
 Try running some of the following tasks:
 
